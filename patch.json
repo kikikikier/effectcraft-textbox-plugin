@@ -1,0 +1,8 @@
+{
+  "name": "TextBox Plugin",
+  "upstream": "https://github.com/storytold/effectcraft",
+  "base_commit": "608d1b077b65bb7591f26be587a2a5a47f4278bc",
+  "patch": "effectcraft-textbox-plugin.patch",
+  "sha256": "d22c6efc54927f72072c0e19c503b0fbbd7b61a38eb4789dff7fc51c12f75f95",
+  "combined_repository": "https://github.com/kikikikier/effectcraft-custom"
+}
